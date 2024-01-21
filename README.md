@@ -6,6 +6,8 @@ Before contributing, please read this article carefully to quickly understand th
 
 Hello World~
 
+Some HTML elements, such as `<ul>`, `<ol>`, `<table>` and `<select>` have restrictions on what elements can appear inside them, and some elements such as `<li>`, `<tr>`, and `<option>` can only appear inside certain other elements.
+
 ## Tips
 
 1. Language: Please use at least one language, Chinese or English. The bilingual version is highly preferred.
