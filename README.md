@@ -4,6 +4,8 @@ Thank you very much for contributing to StarRocks documentation! Your help is im
 
 Before contributing, please read this article carefully to quickly understand the tips, writing process, and documentation templates.
 
+Hello World~
+
 ## Tips
 
 1. Language: Please use at least one language, Chinese or English. The bilingual version is highly preferred.
