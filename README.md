@@ -74,3 +74,4 @@ Hello World~
 - [Functions](https://github.com/StarRocks/docs/blob/main/sql-reference/sql-functions/How_to_Write_Functions_Documentation.md)
 - [SQL command template](https://github.com/StarRocks/docs/blob/main/sql-reference/sql-statements/SQL_command_template.md)
 - [Loading data template](https://github.com/StarRocks/starrocks/blob/main/docs/loading/Loading_data_template.md)
+- The review phase includes automatic checks and manual review.
