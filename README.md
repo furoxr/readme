@@ -13,7 +13,7 @@ Hello World~
 3. Images: Images must first be put into the **assets** folder. When inserting images into the documentation, please use the relative path, such as `![test image](../../assets/test.png)`.
 4. Links: For internal links (links to documentation on our official website), please use the relative path of the document, such as `[test md](./data_source/catalog/hive_catalog.md)`. For external links,  the format must be `[link text](link URL)`.
 5. Code blocks: You must add a language identifier for code blocks, for example, `sql`.
-6. Currently, special symbols are not  supported.
+6. Currently, special symbols are not supported.
 
 ## Writing Process
 
@@ -75,3 +75,5 @@ Hello World~
 - [SQL command template](https://github.com/StarRocks/docs/blob/main/sql-reference/sql-statements/SQL_command_template.md)
 - [Loading data template](https://github.com/StarRocks/starrocks/blob/main/docs/loading/Loading_data_template.md)
 - The review phase includes automatic checks and manual review.
+
+This is because the HTML spec only allows [a few specific elements](https://html.spec.whatwg.org/multipage/syntax.html#void-elements) to omit closing tags, the most common being `<input>` and `<img>`. For all other elements, if you omit the closing tag, the native HTML parser will think you never terminated the opening tag. For example, the following snippet:
