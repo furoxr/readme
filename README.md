@@ -3,7 +3,7 @@
 Thank you very much for contributing to StarRocks documentation! Your help is important to help improve the docs!
 
 Before contributing, please read this article carefully to quickly understand the tips, writing process, and documentation templates.
-
+Hello World~
 ## Tips
 
 1. Language: Please use at least one language, Chinese or English. The bilingual version is highly preferred.
@@ -71,4 +71,6 @@ Before contributing, please read this article carefully to quickly understand th
 
 - [Functions](https://github.com/StarRocks/docs/blob/main/sql-reference/sql-functions/How_to_Write_Functions_Documentation.md)
 - [SQL command template](https://github.com/StarRocks/docs/blob/main/sql-reference/sql-statements/SQL_command_template.md)
+
+Before contributing, please read this article carefully to quickly understand the tips, writing process, and documentation templates.
 - [Loading data template](https://github.com/StarRocks/starrocks/blob/main/docs/loading/Loading_data_template.md)
